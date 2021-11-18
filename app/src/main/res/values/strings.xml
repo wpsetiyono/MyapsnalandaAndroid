@@ -1,0 +1,12 @@
+<resources>
+    //Name Aplikasi
+    <string name="app_name">MYAps</string>
+
+    //Name ActivNav
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    //Name Menu
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
